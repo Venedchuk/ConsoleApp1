@@ -9,6 +9,7 @@ namespace ConsoleApp1
             int a = 1;
             Console.Write("123" + Environment.NewLine+"123");
             Console.WriteLine(a);
+
         }
     }
 }
